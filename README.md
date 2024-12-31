@@ -1,5 +1,7 @@
 # HackerRank-SQL-Intermediate
 
+Skills: SQL | MS SQL Server
+
 ### Question 1: Business Expansion
 To support the company's business expansion efforts, identify all customer-user pairs who have interacted more than once. For each pair, provide the following details:
 
